@@ -40,7 +40,7 @@ I’m currently deepening my knowledge of:
 
 ## 💬 **Ask Me About**
 - **Robotics**: From building a self-driving wheelchair to designing mobile robots with **ROS**.
-- **Autonomous Navigation**: Using **LIDAR**, **Kinect**, and **Web Robotics Integration** for 2D mapping.
+- **Autonomous Navigation**: Using **LIDAR**, **Kinect**, ** other sensors** for 2D mapping and **Web Robotics Integration**.
 - **Embedded Systems**: Microcontrollers (ex: Atmega32, Arduino), sensors, and interfacing them for robotic applications.
 
 ---
