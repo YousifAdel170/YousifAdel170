@@ -33,6 +33,8 @@ I’m currently deepening my knowledge of:
 - **React.js** and **JavaScript** (Component-based architecture, hooks, context API).
 - **Web Performance Optimization** and **State Management** with **Redux**.
 - **Robotics**: Improving my skills in **robot localization**, **mapping algorithms**, and **path planning** using **ROS**.
+- **Data Structures**: Mastering various data structures to improve problem-solving and algorithm design skills  
+
 
 ---
 
