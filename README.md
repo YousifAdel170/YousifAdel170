@@ -53,7 +53,7 @@ I **transformed a wheelchair into a self-driving robot** for my **graduation pro
 Here are some of the projects I’m proud of:
 
 ### 🌟 [Self-Driving Wheelchair]
-- **Tech**: ROS, Gmapping, SLAM, Navigation  
+- **Tech**: ROS, Gmapping, SLAM, Navigation, Website, Web App, ROSBridge (Websocket)  
 - **Description**: Built an autonomous wheelchair that can navigate through rooms, avoid obstacles, and create a map of its environment.
 
 ### 🌟 [Autonomous Mobile Robot (AMR)]
