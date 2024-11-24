@@ -109,7 +109,7 @@ Here are some of the projects I’m proud of:
 Feel free to reach out if you'd like to connect or collaborate!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousif-adel-a601641b1/)  
-- 📧 Email: [your-email@example.com](mailto:ya842245@gmail.com)  
+- 📧 Email: [mail me](mailto:ya842245@gmail.com)  
 - 🐙 [GitHub](https://github.com/YousifAdel170)  
 
 ---
