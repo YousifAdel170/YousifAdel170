@@ -40,9 +40,8 @@ I’m currently deepening my knowledge of:
 
 ## 💬 **Ask Me About**
 - **Robotics**: From building a self-driving wheelchair to designing mobile robots with **ROS**.
-- **React.js**: Building modern web applications with the latest features.
-- **Autonomous Navigation**: Using **LIDAR**, **Kinect**, and **RTAB-Map** for 2D/3D mapping.
-- **Embedded Systems**: Microcontrollers, sensors, and interfacing them for robotic applications.
+- **Autonomous Navigation**: Using **LIDAR**, **Kinect**, and **Web Robotics Integration** for 2D mapping.
+- **Embedded Systems**: Microcontrollers (ex: Atmega32, Arduino), sensors, and interfacing them for robotic applications.
 
 ---
 
