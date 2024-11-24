@@ -6,13 +6,12 @@ A passionate Engineer and Robotics Enthusiast focused on building autonomous sys
 ## 📌 **Table of Contents**
 1. [🔭 Currently Working On](#-currently-working-on)  
 2. [👯 Collaboration Opportunities](#-collaboration-opportunities)  
-3. [🤝 Seeking Help With](#-seeking-help-with)  
-4. [🌱 Learning](#-learning)  
-5. [💬 Ask Me About](#-ask-me-about)  
-6. [⚡ Fun Fact](#-fun-fact)  
-7. [🚀 Key Projects](#-key-projects)  
-8. [🔧 Technologies & Tools](#-technologies--tools)  
-9. [🌐 Contact](#-contact)
+3. [🌱 Learning](#-learning)  
+4. [💬 Ask Me About](#-ask-me-about)  
+5. [⚡ Fun Fact](#-fun-fact)  
+6. [🚀 Key Projects](#-key-projects)  
+7. [🔧 Technologies & Tools](#-technologies--tools)  
+8. [🌐 Contact](#-contact)
 
 ---
 ## 🔭 **Currently Working On**
