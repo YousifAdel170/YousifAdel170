@@ -61,9 +61,9 @@ Here are some of the projects I’m proud of:
 - **Tech**: ROS, A*, DWA, LIDAR  
 - **Description**: Developed an autonomous robot with path planning, navigation, and obstacle avoidance using **ROS**.
 
-### 🌟 [Interactive Web Application with Customizable Settings](https://github.com/YousifAdel170/Interactive-Web-Application-with-Customizable-Settings)
-- **Tech**: React.js, JavaScript, HTML5, CSS3  
-- **Description**: Developed an interactive web application that allows users to customize various settings such as themes, layouts, and color schemes in real-time.
+### 🌟 [MovieSphere](https://github.com/YousifAdel170/moviesphere)
+- **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
+- **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
 
 ### 🌟 [Hangman Game](https://github.com/YousifAdel170/Hangman-Game)
 - **Tech**: JavaScript, HTML5, CSS3, Responsive Design 
