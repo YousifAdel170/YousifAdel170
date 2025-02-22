@@ -65,9 +65,9 @@ Here are some of the projects I’m proud of:
 - **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
 - **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
 
-### 🌟 [Hangman Game](https://github.com/YousifAdel170/Hangman-Game)
-- **Tech**: JavaScript, HTML5, CSS3, Responsive Design 
-- **Description**: A simple yet fun **Hangman** game built with pure **JavaScript**, where players guess the correct letters to complete a word before they run out of attempts.
+### 🌟 [School Management System](https://github.com/YousifAdel170/School-Management-System/)
+- **Tech**: React, Redux, React Router, Bootstrap, CSS
+- **Description**: A role-based school management system that allows Admins, Teachers, Students, and Parents to manage and access school-related data. Features include user authentication, role-based access control, and a modern responsive UI.
 
 ### 🌟 [Door Locker Security System](https://github.com/YousifAdel170/Door-Locker-Security-System)
 - **Tech**: Embedded C, Proteus, Atmega32 (UART, GPIO, I2C, Timer 0, Timer 1), LCD, KeyPad, Dc Motor, Buzzer  
