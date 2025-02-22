@@ -15,14 +15,14 @@ A passionate Engineer and Robotics Enthusiast focused on building autonomous sys
 
 ---
 ## 🔭 **Currently Working On**
-I’m currently improving my **JavaScript** and **React.js** skills while building responsive, dynamic, and interactive web applications.  
+I’m currently improving my **React.js**, **Redux** and **Redux Toolkit** skills while building responsive, dynamic, and interactive web applications.  
 Additionally, I am actively working on enhancing my **ROS** (Robot Operating System) knowledge and contributing to robotics projects, focusing on **autonomous navigation** and **SLAM**.
 
 ---
 
 ## 👯 **Collaboration Opportunities**
 I’m looking to collaborate on:
-- Open-source **web development projects**, especially those using **React** and **JavaScript**.
+- Open-source **web development projects**, especially those using **React**, **Redux**, and **Redux Toolkit**.
 - **Robotics** projects, particularly those focused on **autonomous systems**, **path planning**, and **navigation** using **ROS**.
 - Any **embedded systems** applications where I can bring my experience in microcontrollers and sensors.
 
@@ -30,8 +30,8 @@ I’m looking to collaborate on:
 
 ## 🌱 **Learning**
 I’m currently deepening my knowledge of:
-- **React.js** and **JavaScript** (Component-based architecture, hooks, context API).
-- **Web Performance Optimization** and **State Management** with **Redux**.
+- **React.js** , **Redux** and **Redux Toolkit** (State Management, Middleware, Async Thunks).
+- **Web Performance Optimization** and advanced JavaScript concepts.
 - **Robotics**: Improving my skills in **robot localization**, **mapping algorithms**, and **path planning** using **ROS**.
 - **Data Structures**: Mastering various data structures to improve problem-solving and algorithm design skills  
 
@@ -95,6 +95,8 @@ Here are some of the projects I’m proud of:
 ![Gazebo](https://img.shields.io/badge/-Gazebo-003865?logo=gazebo&logoColor=white&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat)
 
