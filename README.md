@@ -61,13 +61,13 @@ Here are some of the projects I’m proud of:
 - **Tech**: ROS, A*, DWA, LIDAR  
 - **Description**: Developed an autonomous robot with path planning, navigation, and obstacle avoidance using **ROS**.
 
+### 🌟 [School Management System](https://github.com/YousifAdel170/School-Management-System/)
+- **Tech**: React, Redux, React Router, React-Bootstrap, Bootstrap, CSS, PHP, MySQL 
+- **Description**: A role-based school management system that allows Admins, Teachers, Students, and Parents to manage and access school-related data. Features include user authentication, role-based access control, and a modern responsive UI.
+
 ### 🌟 [MovieSphere](https://github.com/YousifAdel170/moviesphere)
 - **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
 - **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
-
-### 🌟 [School Management System](https://github.com/YousifAdel170/School-Management-System/)
-- **Tech**: React, Redux, React Router, Bootstrap, CSS
-- **Description**: A role-based school management system that allows Admins, Teachers, Students, and Parents to manage and access school-related data. Features include user authentication, role-based access control, and a modern responsive UI.
 
 ### 🌟 [Door Locker Security System](https://github.com/YousifAdel170/Door-Locker-Security-System)
 - **Tech**: Embedded C, Proteus, Atmega32 (UART, GPIO, I2C, Timer 0, Timer 1), LCD, KeyPad, Dc Motor, Buzzer  
