@@ -1,5 +1,5 @@
 #  👋 **Hi, I'm Yousif Adel!**
-A passionate Engineer and Robotics Enthusiast focused on building autonomous systems and web applications. Welcome to my GitHub! 🚀
+A passionate Software Engineer focused on building Web Applications and autonomous systems using ROS. Welcome to my GitHub! 🚀
 
 ---
 
@@ -15,9 +15,8 @@ A passionate Engineer and Robotics Enthusiast focused on building autonomous sys
 
 ---
 ## 🔭 **Currently Working On**
-I’m currently improving my **React.js**, **Redux** and **Redux Toolkit** skills while building responsive, dynamic, and interactive web applications.  
-Additionally, I am actively working on enhancing my **ROS** (Robot Operating System) knowledge and contributing to robotics projects, focusing on **autonomous navigation** and **SLAM**.
-
+I’m currently improving my **TypeScript**, **React.js**, **Java**, and **Redux Toolkit** skills while building responsive, dynamic, and interactive web applications.
+Additionally, I am actively learning **CCNA** to strengthen my networking knowledge.
 ---
 
 ## 👯 **Collaboration Opportunities**
@@ -30,9 +29,9 @@ I’m looking to collaborate on:
 
 ## 🌱 **Learning**
 I’m currently deepening my knowledge of:
-- **React.js** , **Redux** and **Redux Toolkit** (State Management, Middleware, Async Thunks).
+- **TypeScript**, **React.js**, **Redux** and **Redux Toolkit** (State Management, Middleware, Async Thunks).
 - **Web Performance Optimization** and advanced JavaScript concepts.
-- **Robotics**: Improving my skills in **robot localization**, **mapping algorithms**, and **path planning** using **ROS**.
+- **CCNA**: Expanding my understanding of networking fundamentals and infrastructure.
 - **Data Structures**: Mastering various data structures to improve problem-solving and algorithm design skills  
 
 
@@ -53,14 +52,6 @@ I **transformed a wheelchair into a self-driving robot** for my **graduation pro
 ## 🚀 **Key Projects**
 Here are some of the projects I’m proud of:
 
-### 🌟 [Self-Driving Wheelchair]
-- **Tech**: ROS, Gmapping, SLAM, Navigation, Website, Web App, ROSBridge (Websocket)  
-- **Description**: Built an autonomous wheelchair that can navigate through rooms, avoid obstacles, and create a map of its environment.
-
-### 🌟 [Autonomous Mobile Robot (AMR)]
-- **Tech**: ROS, A*, DWA, LIDAR  
-- **Description**: Developed an autonomous robot with path planning, navigation, and obstacle avoidance using **ROS**.
-
 ### 🌟 [School Management System](https://github.com/YousifAdel170/School-Management-System/)
 - **Tech**: React, Redux, React Router, React-Bootstrap, Bootstrap, CSS, PHP, MySQL 
 - **Description**: A role-based school management system that allows Admins, Teachers, Students, and Parents to manage and access school-related data. Features include user authentication, role-based access control, and a modern responsive UI.
@@ -68,6 +59,14 @@ Here are some of the projects I’m proud of:
 ### 🌟 [MovieSphere](https://github.com/YousifAdel170/moviesphere)
 - **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
 - **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
+
+### 🌟 [Self-Driving Wheelchair]
+- **Tech**: ROS, Gmapping, SLAM, Navigation, Website, Web App, ROSBridge (Websocket)  
+- **Description**: Built an autonomous wheelchair that can navigate through rooms, avoid obstacles, and create a map of its environment.
+
+### 🌟 [Autonomous Mobile Robot (AMR)]
+- **Tech**: ROS, A*, DWA, LIDAR  
+- **Description**: Developed an autonomous robot with path planning, navigation, and obstacle avoidance using **ROS**.
 
 ### 🌟 [Door Locker Security System](https://github.com/YousifAdel170/Door-Locker-Security-System)
 - **Tech**: Embedded C, Proteus, Atmega32 (UART, GPIO, I2C, Timer 0, Timer 1), LCD, KeyPad, Dc Motor, Buzzer  
