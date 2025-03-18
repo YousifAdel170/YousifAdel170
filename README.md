@@ -17,6 +17,7 @@ A passionate Software Engineer focused on building Web Applications and autonomo
 ## 🔭 **Currently Working On**
 I’m currently improving my **TypeScript**, **React.js**, **Java**, and **Redux Toolkit** skills while building responsive, dynamic, and interactive web applications.
 Additionally, I am actively learning **CCNA** to strengthen my networking knowledge.
+
 ---
 
 ## 👯 **Collaboration Opportunities**
