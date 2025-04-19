@@ -53,26 +53,25 @@ I **transformed a wheelchair into a self-driving robot** for my **graduation pro
 ## 🚀 **Key Projects**
 Here are some of the projects I’m proud of:
 
+### 🌟 [Autonomous Wheelchair](https://github.com/YousifAdel170/Autonomous-Wheelchair)
+- **Tech**: ROS, Gmapping, SLAM, Navigation, Website, Web App, ROSBridge (Websocket), React, HTML, CSS, Bootstrap  
+- **Description**: Built an autonomous wheelchair that can navigate through rooms, avoid obstacles, and create a map of its environment.
+
 ### 🌟 [School Management System](https://github.com/YousifAdel170/School-Management-System/)
 - **Tech**: React, Redux, React Router, React-Bootstrap, Bootstrap, CSS, PHP, MySQL 
 - **Description**: A role-based school management system that allows Admins, Teachers, Students, and Parents to manage and access school-related data. Features include user authentication, role-based access control, and a modern responsive UI.
 
-### 🌟 [MovieSphere](https://github.com/YousifAdel170/moviesphere)
-- **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
-- **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
-
-### 🌟 [Self-Driving Wheelchair]
-- **Tech**: ROS, Gmapping, SLAM, Navigation, Website, Web App, ROSBridge (Websocket)  
-- **Description**: Built an autonomous wheelchair that can navigate through rooms, avoid obstacles, and create a map of its environment.
-
-### 🌟 [Autonomous Mobile Robot (AMR)]
-- **Tech**: ROS, A*, DWA, LIDAR  
+### 🌟 [Autonomous Mobile Robot](https://github.com/YousifAdel170/Autonomous-Mobile-Robot)
+- **Tech**: ROS, A*, DWA, LIDAR, Kinect Camera
 - **Description**: Developed an autonomous robot with path planning, navigation, and obstacle avoidance using **ROS**.
 
 ### 🌟 [Door Locker Security System](https://github.com/YousifAdel170/Door-Locker-Security-System)
 - **Tech**: Embedded C, Proteus, Atmega32 (UART, GPIO, I2C, Timer 0, Timer 1), LCD, KeyPad, Dc Motor, Buzzer  
 - **Description**: Developed a door locking security system to unlock doors based on authorized access.
 
+### 🌟 [MovieSphere](https://github.com/YousifAdel170/moviesphere)
+- **Tech**: React.js, JavaScript, HTML5, CSS3, React-Bootstrap
+- **Description**: MovieSphere is a modern React-based web application that allows users to explore and discover popular movies.
 
 ---
 
